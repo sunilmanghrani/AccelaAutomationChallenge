@@ -1,0 +1,67 @@
+2018-03-20 08:49:14 INFO  - Initializing driver
+2018-03-20 08:49:18 INFO  - ***Started execution of Scenario ==> Verify displayed product price and charges applied are correct at bag page
+2018-03-20 08:49:24 INFO  - Navigating to base url : http://www.buyagift.co.uk/
+2018-03-20 08:49:25 INFO  - Wait for page load
+2018-03-20 08:49:25 INFO  - Entered value in test field : Search Field ==>> Two Nights for the Price of One Hotel Break
+2018-03-20 08:49:27 INFO  - Clicked on element : Search Button
+2018-03-20 08:49:28 INFO  - Wait for page load
+2018-03-20 08:49:28 INFO  - Clicked on element : Two Nights for the Price of One Hotel Break
+2018-03-20 08:49:30 INFO  - Wait for page load
+2018-03-20 08:49:37 INFO  - Clicked on element : BuyNow
+2018-03-20 08:49:38 INFO  - Wait for page load
+2018-03-20 08:49:39 INFO  - Wait for page load
+2018-03-20 08:49:40 INFO  - Entered value in test field : Personal Message ==>> Gift For Special person
+2018-03-20 08:49:40 INFO  - Clicked on element : eVoucher Payment
+2018-03-20 08:49:41 INFO  - Wait for page load
+2018-03-20 08:49:41 INFO  - Assert Pass: DeliveryPrice Actual value  : £0.00 is  equals to  £0.00
+2018-03-20 08:49:41 INFO  - Assert Pass: PackagingPrice Actual value  : £0.00 is  equals to  £0.00
+2018-03-20 08:49:41 INFO  - Screen scrolled
+2018-03-20 08:49:41 INFO  - Assert Pass: ProductPrice Actual value  : £99.00 is  equals to  £99.00
+2018-03-20 08:49:41 INFO  - ***Ended execution of Scenario ==> cucumber.runtime.ScenarioImpl@21ab613c
+2018-03-20 08:49:42 INFO  - Quit driver
+2018-03-20 08:49:42 INFO  - *****************************************************************
+2018-03-20 08:49:42 INFO  - *****************************************************************
+2018-03-20 08:49:42 INFO  - Initializing driver
+2018-03-20 08:49:45 INFO  - ***Started execution of Scenario ==> Verify correct error message displayed on checkout with incorrect card details
+2018-03-20 08:49:51 INFO  - Navigating to base url : http://www.buyagift.co.uk/
+2018-03-20 08:49:52 INFO  - Wait for page load
+2018-03-20 08:49:52 INFO  - Entered value in test field : Search Field ==>> Two Nights for the Price of One Hotel Break
+2018-03-20 08:49:54 INFO  - Clicked on element : Search Button
+2018-03-20 08:49:55 INFO  - Wait for page load
+2018-03-20 08:49:55 INFO  - Clicked on element : Two Nights for the Price of One Hotel Break
+2018-03-20 08:49:57 INFO  - Wait for page load
+2018-03-20 08:50:03 INFO  - Clicked on element : BuyNow
+2018-03-20 08:50:04 INFO  - Wait for page load
+2018-03-20 08:50:05 INFO  - Wait for page load
+2018-03-20 08:50:06 INFO  - Entered value in test field : Personal Message ==>> Gift For Special person
+2018-03-20 08:50:06 INFO  - Clicked on element : eVoucher Payment
+2018-03-20 08:50:07 INFO  - Wait for page load
+2018-03-20 08:50:07 INFO  - Clicked on element : payNow
+2018-03-20 08:50:07 INFO  - Pop up alert is accepted
+2018-03-20 08:50:10 INFO  - Wait for page load
+2018-03-20 08:50:13 INFO  - Wait for page load
+2018-03-20 08:50:13 INFO  - Selected value from dropdown : title ==>> Mr.
+2018-03-20 08:50:13 INFO  - Entered value in test field : First Name ==>> test
+2018-03-20 08:50:13 INFO  - Entered value in test field : Last Name ==>> user
+2018-03-20 08:50:14 INFO  - Entered value in test field : telephonenumber ==>> 1234567890
+2018-03-20 08:50:14 INFO  - Clicked on element : login_continue
+2018-03-20 08:50:15 INFO  - Wait for page load
+2018-03-20 08:50:15 INFO  - Entered value in visible test field : Address1 ==>> 121
+2018-03-20 08:50:15 INFO  - Entered value in visible test field : Postcode ==>> RG1 3ES
+2018-03-20 08:50:18 INFO  - Clicked on element : Search Address
+2018-03-20 08:50:21 INFO  - Wait for page load
+2018-03-20 08:50:21 INFO  - Entered value in test field : Cardholder Name ==>> test
+2018-03-20 08:50:21 INFO  - Entered value in test field : Card Number ==>> 1234123412341234
+2018-03-20 08:50:21 INFO  - Entered value in test field : Issue Number ==>> 123
+2018-03-20 08:50:21 INFO  - Entered value in test field : CVV number ==>> 123
+2018-03-20 08:50:22 INFO  - Selected value from dropdown : expirymonth ==>> 1
+2018-03-20 08:50:22 INFO  - Selected value from dropdown : expiryyear ==>> 2020
+2018-03-20 08:50:22 INFO  - Selected value from dropdown : startmonth ==>> 1
+2018-03-20 08:50:22 INFO  - Selected value from dropdown : startyear ==>> 2016
+2018-03-20 08:50:23 INFO  - Wait for page load
+2018-03-20 08:50:26 INFO  - Clicked on element : PlaceOrderButton
+2018-03-20 08:50:27 INFO  - Wait for page load
+2018-03-20 08:50:27 INFO  - ***Ended execution of Scenario ==> cucumber.runtime.ScenarioImpl@520cc612
+2018-03-20 08:50:28 INFO  - Quit driver
+2018-03-20 08:50:28 INFO  - *****************************************************************
+2018-03-20 08:50:28 INFO  - *****************************************************************
